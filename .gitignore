@@ -189,3 +189,4 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
+07-TextSplitter/.DS_Store
